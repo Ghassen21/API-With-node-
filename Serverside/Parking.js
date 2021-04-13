@@ -1,4 +1,6 @@
-[
+ 
+ 
+  const parkings=[
     {
         "id": 1,
         "name": "Parking 1",
@@ -30,3 +32,4 @@
         "city": "LILLE"
     }
 ]
+module.exports= parkings
